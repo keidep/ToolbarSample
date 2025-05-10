@@ -15,4 +15,5 @@
 　我儘わがままもこのくらいなら我慢するが吾輩は人間の不徳についてこれよりも数倍悲しむべき報道を耳にした事がある。</string>
     <string name="toolbar_title">Material!</string>
     <string name="toolbar_subtitle">ツールバーを使用</string>
+    <string name="fab_desc">メール送信</string>
 </resources>

@@ -45,4 +45,14 @@
 
     </androidx.core.widget.NestedScrollView>
 
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fobEmail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        app:layout_anchor="@id/appbar"
+        app:layout_anchorGravity="bottom|end"
+        app:srcCompat="@android:drawable/ic_dialog_email"
+        android:contentDescription="@string/fab_desc"/>
+
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
